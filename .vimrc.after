@@ -1,0 +1,7 @@
+if has("gui_running")
+  set guifont=Inconsolata\ XL:h13,Inconsolata:h20,Monaco:h17
+endif
+
+colorscheme solarized
+set background=dark
+
